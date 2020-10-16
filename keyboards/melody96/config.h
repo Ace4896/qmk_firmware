@@ -32,7 +32,8 @@
 #define BACKLIGHT_LEVELS 5
 #endif
 
-/* Set location for BootMagic key*/
+/* Set location for BootMagic key */
+// LCTRL
 #define BOOTMAGIC_LITE_ROW 5
 #define BOOTMAGIC_LITE_COLUMN 0
 
