@@ -38,7 +38,7 @@
 #define BOOTMAGIC_LITE_COLUMN 0
 
 /* Set 0 if debouncing isn't needed */
-#define DEBOUNCE 0
+#define DEBOUNCE 1
 
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
