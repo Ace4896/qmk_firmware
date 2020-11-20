@@ -1,2 +1,5 @@
-VIA_ENABLE = yes
-LTO_ENABLE = yes # reduce firmware size
+# NOTE: VIA inteferes with bootmagic, disabled for now
+# VIA_ENABLE = yes
+
+# Reduces firmware size
+LTO_ENABLE = yes
