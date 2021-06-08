@@ -38,7 +38,7 @@
 #define BOOTMAGIC_LITE_COLUMN 0
 
 /* Set 0 if debouncing isn't needed */
-#define DEBOUNCE 0
+#define DEBOUNCE 1
 
 /* Increased polling rate */
 #define USB_POLLING_INTERVAL_MS 1
