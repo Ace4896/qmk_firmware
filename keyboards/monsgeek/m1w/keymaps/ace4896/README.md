@@ -11,6 +11,8 @@ sudo dnf copr enable erovia/wb32-dfu-updater
 sudo dnf install wb32-dfu-updater
 ```
 
+**NOTE**: After flashing the firmware, it may be necessary to clear the EEPROM by pressing `Fn + ~`.
+
 ## Changes to Default Keymap
 
 - `F13`: `PrtScr`
