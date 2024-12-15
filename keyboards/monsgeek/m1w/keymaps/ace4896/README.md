@@ -23,6 +23,20 @@ sudo dnf install wb32-dfu-updater
 - `Fn + N`: Toggle NKRO
 - `Fn + Win`: Lock Windows Key
 - `Fn + LCtrl`: Unlock Windows Key
+- `Fn + Tab`: Toggle NumLock
+- Virtual Numpad - use `Fn` + one of the keys below:
+
+```
++------+------+------+         +------+------+------+
+| Q    | W    | E    |         | 7    | 8    | 9    |
++------+------+------+         +------+------+------+
+| A    | S    | D    |         | 4    | 5    | 6    |
++------+------+------+  ---->  +------+------+------+
+| Z    | X    | C    |         | 1    | 2    | 3    |
++------+------+------+         +------+------+------+
+| LAlt |      |      |         | 0    |      |      |
++------+------+------+         +------+------+------+
+```
 
 ## Changes to `config.h`
 
