@@ -3,7 +3,6 @@
     "keyboard_name": "MonsGeek  Keyboard",
     "maintainer": "Priyadie",
     "bootloader": "wb32-dfu",
-    "debounce": 1,
     "diode_direction": "ROW2COL",
     "eeprom": {
         "driver": "wear_leveling",
