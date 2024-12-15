@@ -21,6 +21,8 @@ sudo dnf install wb32-dfu-updater
   - End
 - `Fn + Esc`: Reset to Bootloader
 - `Fn + N`: Toggle NKRO
+- `Fn + Win`: Lock Windows Key
+- `Fn + LCtrl`: Unlock Windows Key
 
 ## Changes to `config.h`
 
