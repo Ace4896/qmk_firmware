@@ -1,6 +1,3 @@
-# Force-enable Bootmagic
-BOOTMAGIC_ENABLE = yes
-
 # Enable LTO for smaller firmware sizes
 LTO_ENABLE = yes
 
