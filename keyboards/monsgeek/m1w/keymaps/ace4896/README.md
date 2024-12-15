@@ -11,7 +11,15 @@ sudo dnf copr enable erovia/wb32-dfu-updater
 sudo dnf install wb32-dfu-updater
 ```
 
-**NOTE**: After flashing the firmware, it may be necessary to clear the EEPROM by pressing `Fn + ~`.
+## Known Issues
+
+- After flashing the firmware, it may be necessary to clear the EEPROM by pressing `Fn + ~`
+- For use with VIA, the keyboard definition needs to be loaded into the application
+- Exporting the VIA configuration creates a blank file and shows several errors in VIA
+
+## RGB Settings
+
+- Solid Colour - `#7800ff`
 
 ## Changes to Default Keymap
 
