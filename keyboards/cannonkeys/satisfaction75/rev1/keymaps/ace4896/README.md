@@ -16,6 +16,19 @@ To reach the bootloader, re-plug the device while holding `Esc`.
 - PgUp/Down: `Fn + Home/End`
 - Disable Windows Key: `Fn + Win`
 - Enable Windows Key: `Fn + Ctrl`
+- Virtual Numpad - use `Fn` + one of the keys below:
+
+```
++------+------+------+         +------+------+------+
+| Q    | W    | E    |         | 7    | 8    | 9    |
++------+------+------+         +------+------+------+
+| A    | S    | D    |         | 4    | 5    | 6    |
++------+------+------+  ---->  +------+------+------+
+| Z    | X    | C    |         | 1    | 2    | 3    |
++------+------+------+         +------+------+------+
+| LAlt |      |      |         | 0    |      |      |
++------+------+------+         +------+------+------+
+```
 
 ## Changes to `config.h`
 
