@@ -4,7 +4,7 @@ To reach the bootloader, re-plug the device while holding `Esc`.
 
 ## Changes to Keymap
 
-- RGB Controls:
+- Underglow RGB Controls:
   - Toggle On/Off: `Fn + Tab`
   - Change Mode: `Fn + Q`
   - Decrease/Increase Hue: `Fn + W / Fn + E`
