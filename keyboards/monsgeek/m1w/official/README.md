@@ -55,6 +55,7 @@ In my personal layout, I removed several keycodes I don't need and undocumented 
   - Enter Bootloader: `Fn + Reset`
   - Clear EEPROM: `Fn + ~` (hold for 5 seconds)
   - Check Battery Level: `Fn + Space` (wireless mode only)
+  - Change Display Brightness: `Fn + Rotate Knob`
   - Toggle Windows Key Lock: `Fn + Win`
   - Toggle NKRO: `Fn + N`
 
