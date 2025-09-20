@@ -1,3 +1,4 @@
+**TODO**: This currently doesn't build - better to use official firmware [(instructions here)](./official//README.md)
 
 # M1W VIA
 
