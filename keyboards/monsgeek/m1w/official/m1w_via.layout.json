@@ -107,8 +107,8 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_SLCK",
+      "KC_PAUS",
       "KC_TRNS",
       "KC_TRNS",
       "QK_CLEAR_EEPROM",
@@ -155,8 +155,8 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_NO",
-      "KC_TRNS",
-      "KC_TRNS",
+      "KC_PGUP",
+      "KC_LSFT",
       "KC_NO",
       "KC_TRNS",
       "KC_TRNS",
@@ -170,7 +170,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "RGB_VAI",
-      "KC_TRNS",
+      "KC_PGDN",
       "KC_TRNS",
       "0x700b",
       "KC_TRNS",
@@ -375,7 +375,7 @@
   "encoders": [
     [
       ["KC_VOLD", "KC_VOLU"],
-      ["KC_TRNS", "KC_TRNS"],
+      ["KC_BRID", "KC_BRIU"],
       ["KC_TRNS", "KC_TRNS"],
       ["KC_TRNS", "KC_TRNS"]
     ]
